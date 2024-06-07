@@ -9,7 +9,7 @@ Check out the live demo of the Tic-Tac-Toe Game :
 ## ✨ Features
 
 - **👥 Two-Player Mode :** Play against a friend on the same device.
-- - **🤖 Computer Mode :** Play against the computer with varying levels of difficulty.
+- **🤖 Computer Mode :** Play against the computer with varying levels of difficulty.
 - **💻 Interactive UI :** Simple and intuitive user interface.
 - **⏱️ Real-Time Game Updates :** Immediate feedback for each move.
 - **🏆 Winning Detection :** Automatically detects and announces the winner or a draw.
