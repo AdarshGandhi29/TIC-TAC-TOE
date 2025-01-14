@@ -4,7 +4,7 @@ Welcome to the Tic-Tac-Toe Game project! This classic game has been implemented 
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Tic-Tac-Toe Game : https://adarshgandhi29.github.io/PRODIGY_WD_03/
+Check out the live demo of the Tic-Tac-Toe Game : https://adarshgandhi29.github.io/TIC-TAC-TOE/
 
 ## ✨ Features
 
